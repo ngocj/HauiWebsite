@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayourAjax.cshtml";
+}
+
+<div class="container">
+    <h2>Manager user</h2>
+
+    <a asp-controller="UserAjax" asp-action="Create">Add user</a>
+
+    <table id="userTable" class="display">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Full name</th>
+                <th>Email</th>
+                <th>Date birth</th>
+                <th>Role name</th>
+            </tr>
+        </thead>      
+        
+    </table>
+</div>
+<script>
+    $(document).ready(function () {
+        var urlApi = "https://localhost:7136/api/User";
+        $("#userTable").DataTable({
+            ajax: {
+                url: urlApi,
+                type: "GET",
+                dataSrc: "",
+            },
+            columns: [
+                { data: "id" },
+                { data: "fullName" },    
+                { data: "email" },
+                { data: "dateOfBirth" },
+                { data: "roleName"}
+            ]
+        });
+    });
+</script>
+ 

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Haui.webAPI\\Haui.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Haui.WebApp\\Haui.WebApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

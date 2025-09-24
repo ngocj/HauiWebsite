@@ -1,0 +1,16 @@
+﻿using Haui.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Haui.infrastructure.Repositories.Interfaces
+{
+    public interface IImageFileRepository : IGenericRepository<Image>
+    {
+        //Task<int> AddFileAsync(Image image);
+       // Task <Image> GetImageById(Guid id);
+        Task<List<Image>> GetAllFileAsync();
+    }
+}

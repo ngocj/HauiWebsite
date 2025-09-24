@@ -1,0 +1,12 @@
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\bin\Debug\net8.0\Haui.Domain.deps.json
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\bin\Debug\net8.0\Haui.Domain.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\bin\Debug\net8.0\Haui.Domain.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.csproj.AssemblyReference.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.AssemblyInfoInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.AssemblyInfo.cs
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\refint\Haui.Domain.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\Haui.Domain.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Domain\obj\Debug\net8.0\ref\Haui.Domain.dll

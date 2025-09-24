@@ -1,0 +1,17 @@
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.infrastructure.deps.json
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.infrastructure.runtimeconfig.json
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.infrastructure.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.infrastructure.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.Domain.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\bin\Debug\net8.0\Haui.Domain.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.csproj.AssemblyReference.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.AssemblyInfoInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.AssemblyInfo.cs
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.inf.3B0F5EAE.Up2Date
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\refint\Haui.infrastructure.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\Haui.infrastructure.genruntimeconfig.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.infrastructure\obj\Debug\net8.0\ref\Haui.infrastructure.dll

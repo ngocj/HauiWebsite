@@ -1,0 +1,40 @@
+﻿@using Haui.Applications.Dtos
+@model List<Haui.Applications.Dtos.UserDto>
+@{
+    ViewData["Title"] = "Index";
+}
+<a href="@Url.Action("Create", "User")" class="btn btn-primary m-lg-5 ">Create new User</a>
+
+<h2>List employee</h2>
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Date of Birth</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FullName</td>
+                <td>@item.Email</td>
+                <td>@item.DateOfBirth</td>
+                <td>
+                    <a href="@Url.Action("Edit", "User", new { Id = item.Id })" class="btn btn-primary btn-success">Edit</a>
+                    <a href="@Url.Action("Delete", "User", new { Id = item.Id })" class="btn btn-primary btn-warning">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+
+</table>
+
+
+

@@ -1,0 +1,17 @@
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.Application.deps.json
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.Application.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.Application.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.Domain.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.infrastructure.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.Domain.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\bin\Release\net8.0\Haui.infrastructure.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.csproj.AssemblyReference.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.AssemblyInfoInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.AssemblyInfo.cs
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.App.EB547396.Up2Date
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\refint\Haui.Application.dll
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\Haui.Application.pdb
+D:\BÀI TẬP\c#\Haui.webAPI\Haui.Applications\obj\Release\net8.0\ref\Haui.Application.dll

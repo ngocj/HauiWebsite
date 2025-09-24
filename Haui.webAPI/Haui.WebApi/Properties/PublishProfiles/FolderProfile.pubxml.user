@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\BÀI TẬP\Public_web</_PublishTargetUrl>
+    <History>True|2025-02-21T05:45:38.2129166Z||;False|2025-02-21T12:45:20.1300839+07:00||;True|2025-02-21T12:43:26.9308759+07:00||;False|2025-02-21T12:43:12.3001973+07:00||;True|2025-02-21T10:43:35.3815362+07:00||;False|2025-02-21T10:43:05.8426164+07:00||;True|2025-02-21T10:28:36.1377695+07:00||;True|2025-02-21T09:41:24.9485507+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="HauiConnection">
+      <Value>Data Source=DESKTOP-CFHHERH%3bInitial Catalog=Haui%3bIntegrated Security=True%3bTrust Server Certificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Haui.infrastructure.Context.HauiContext">
+      <Value>Data Source=DESKTOP-CFHHERH%3bInitial Catalog=Haui%3bIntegrated Security=True%3bTrust Server Certificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
